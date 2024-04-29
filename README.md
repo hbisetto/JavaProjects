@@ -15,6 +15,6 @@ sc.close();
 ```
 On a String case:   
 `sc.nextLine(); // ------------- to clean the buffer`   
-`name = sc.nextLine();`
-Usar : `import java.util.Scanner;`
+`name = sc.nextLine();`   
+Use : `import java.util.Scanner;`
 
