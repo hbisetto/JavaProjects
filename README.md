@@ -13,5 +13,8 @@ char z = sc.next().charAt(0);
 String s = sc.nextLine();
 sc.close();
 ```
+On a String case, use:
+`sc.nextLine(); // ------------- to clean the buffer
+nome = sc.nextLine();`
 Usar : `import java.util.Scanner;`
 
