@@ -14,7 +14,7 @@ String s = sc.nextLine();
 sc.close();
 ```
 On a String case, use:
-`sc.nextLine(); // ------------- to clean the buffer`
+`sc.nextLine(); // ------------- to clean the buffer`   
 `nome = sc.nextLine();`
 Usar : `import java.util.Scanner;`
 
