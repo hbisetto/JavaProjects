@@ -1,9 +1,8 @@
-# Programação Orientada a Objetos em JAVA
+# Programação Orientada a Objetos em JAVA [Curso em Vídeo - POO em JAVA] 
 
 ## Objeto
 O que é um objeto?
 > Coisa Material ou abstrata que pode ser percebida pelos sentidos e descrita por meio das suas características, comportamentos e estado atual.
-[Curso em Vídeo - POO em JAVA] 
 >
 Um objeto tem **características**, **comportamentos** e um **estado**.
 
